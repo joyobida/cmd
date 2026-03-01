@@ -7,5 +7,5 @@ touch
 chmod
 chown
 chgrp
-lstail
+ls
 pid
